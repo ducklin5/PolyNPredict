@@ -16,6 +16,8 @@
 
 `cargo run --bin train --release`
 
+Training takes about 5 minutes with an RTX 4060;
+
 ### Inference
 
 `cargo run --bin infer 18,6,-6,-18,-30`
