@@ -1,0 +1,11 @@
+[package]
+name = "burndemo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+burn = { version = "0.15.0", features = ["wgpu", "train"] }
+itertools = "0.13.0"
+log = "0.4.22"
+rand = "0.8.5"
+wgpu = "23.0.1"
