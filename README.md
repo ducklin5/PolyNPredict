@@ -1,8 +1,8 @@
 # POLYN Sequence Predictor 
 
-- NOTE: only only trained on poly 1 for now
+- NOTE: only trained on poly 1 for now
 
-- Program uses burn LSTM + Linear modules to predict the next number in a leanr sequnece 
+- Program uses burn LSTM + Linear modules to predict the next number in a linear sequnece 
 
 - Trained on and works best with 5 preceeding inputs
 
